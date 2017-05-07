@@ -1,13 +1,16 @@
 # 2017 May StirTrek
 Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Conference
 
-## Speakers ##
-Please add your supporting materials for your session in a single ZIP file in the folder corresponding to your session's track.  Please name the ZIP file with your name and the session name for consistency, like so:
-> /Misc/SamNasr-14NewTSQLFunctions.zip
-> 
-> /Misc/WilliamSteele-3DPrintersAndYou.zip
+# Sessions by Title #
 
-> /Web/PhilipJapikse-ImNotDeadYetAKATheResurgenceOfWebForms.zip
+- [Breaking Dependencies to Allow Unit Testing](Talks/SteveSmith-BreakingDependenciesToAllowUnitTesting.pdf) - [Steve Smith](http://ardalis.com)
+- [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing) - [Craig Stuntz]
+- [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement) - [Tommy Graves]
+
+### Speaker Instructions ###
+Please add your supporting materials for your session in a single file in the "Talks" folder. Ideally with no spaces in the filename.
+
+> /Talks/SamNasr-14NewTSQLFunctions.zip
 
 Thanks!
 
