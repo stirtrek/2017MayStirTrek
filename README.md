@@ -4,6 +4,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 # Sessions by Title #
 
 - [Breaking Dependencies to Allow Unit Testing](Talks/SteveSmith-BreakingDependenciesToAllowUnitTesting.pdf) - [Steve Smith](http://ardalis.com)
+- [Building Concurrent Systems with Akka.NET](Talks/JoeWirtley-BuildingConcurrentSystemsWithAkka.NET.md) - [Joe Wirtley]
 - [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing.md) - [Craig Stuntz]
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
