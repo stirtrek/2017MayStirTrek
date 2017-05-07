@@ -7,6 +7,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing.md) - [Craig Stuntz]
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
+- [Why Your Agile Isn't](Talks/TravisAlexander-WhyYourAgileIsnt.pdf) - [Travis Alexander]
 
 ### Speaker Instructions ###
 Please add your supporting materials for your session in a single file in the "Talks" folder. Ideally with no spaces in the filename.
