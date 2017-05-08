@@ -3,6 +3,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 
 # Sessions by Title #
 
+- [A Lap Around React and Angular 2](Talks/JonKruger-ALapAroundReactAndAngular2.pptx) - [Jon Kruger](http://github.com/JonKruger)
 - [Are You Ready for Chaos?](Talks/MatthewGroves-AreYouReadyforChaos.pptx) - [Matthew D. Groves](http://crosscuttingconcerns.com)
 - [Breaking Dependencies to Allow Unit Testing](Talks/SteveSmith-BreakingDependenciesToAllowUnitTesting.pdf) - [Steve Smith](http://ardalis.com)
 - [Building Concurrent Systems with Akka.NET](Talks/JoeWirtley-BuildingConcurrentSystemsWithAkka.NET.md) - [Joe Wirtley]
