@@ -13,6 +13,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
 - [Securing Data on the High Seas](Talks/BrettWhittington-SecuringDataOnTheHighSeas.pptx) - [Brett Whittington]
 - [Why Your Agile Isn't](Talks/TravisAlexander-WhyYourAgileIsnt.pdf) - [Travis Alexander]
+- [Building Communities: Breaking Down Barriers by Providing Free Education](Talks/Building-Communities_Breaking-Down-Barriers-by-Providing-Free-Education_Kevin-Mack-Sean-Doran.pdf) - [Kevin Mack and Sean Doran]
 
 ### Speaker Instructions ###
 Please add your supporting materials for your session in a single file in the "Talks" folder. Ideally with no spaces in the filename.
