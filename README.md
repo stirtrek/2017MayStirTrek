@@ -16,6 +16,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
 - [Securing Data on the High Seas](Talks/BrettWhittington-SecuringDataOnTheHighSeas.pptx) - [Brett Whittington]
+- [SQL Server Execution Plans](Talks/DrewFurgiuele-SQLServerExecutionPlans) - [Drew Furgiuele](http://www.port1433.com)
 - [Use Alexa to Learn Cloud Serverless Skills](Talks/WrayMills-UseAlexaToLearnCloudServerlessSkills.md) - [Wray Mills]
 - [Why Your Agile Isn't](Talks/TravisAlexander-WhyYourAgileIsnt.pdf) - [Travis Alexander]
 
