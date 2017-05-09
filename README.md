@@ -4,6 +4,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 # Sessions by Title #
 
 - [A Lap Around React and Angular 2](Talks/JonKruger-ALapAroundReactAndAngular2.pptx) [pdf](Talks/JonKruger-ALapAroundReactAndAngular2.pdf)- [Jon Kruger](http://github.com/JonKruger)
+- [Agile Metrics](Talks/DanGreenleaf-AgileMetrics.pdf) - [Dan Greenleaf]
 - [Are You Ready for Chaos?](Talks/MatthewGroves-AreYouReadyforChaos.pptx) - [Matthew D. Groves](http://crosscuttingconcerns.com)
 - [Breaking Dependencies to Allow Unit Testing](Talks/SteveSmith-BreakingDependenciesToAllowUnitTesting.pdf) - [Steve Smith](http://ardalis.com)
 - [Building Communities: Breaking Down Barriers by Providing Free Education](Talks/Building-Communities_Breaking-Down-Barriers-by-Providing-Free-Education_Kevin-Mack-Sean-Doran.pdf) - [Kevin Mack and Sean Doran]
