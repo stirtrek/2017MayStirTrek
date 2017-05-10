@@ -26,7 +26,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 
 ## Sketch Notes
 
-[Sketch notes](https://www.flickr.com/photos/siriomi/albums/72157680436560023) by Binaebie Akah are also available for:
+[Sketch notes](https://www.flickr.com/photos/siriomi/albums/72157680436560023) by [Binaebie Akah](http://siriomi.com/) are also available for:
     - Why Your Agile Isn't
     - Test-Driven CSS
     - Learning to Learn from Disagreement
