@@ -17,6 +17,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing.md) - [Craig Stuntz]
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
+- [Purpose Beyond Programming](Talks/MarkKovacevich-PurposeBeyondProgramming.pptx) - Mark Kovacevich
 - [Securing Data on the High Seas](Talks/BrettWhittington-SecuringDataOnTheHighSeas.pptx) - [Brett Whittington]
 - [SQL Server Execution Plans](Talks/DrewFurgiuele-SQLServerExecutionPlans) - [Drew Furgiuele](http://www.port1433.com)
 - [Use Alexa to Learn Cloud Serverless Skills](Talks/WrayMills-UseAlexaToLearnCloudServerlessSkills.md) - [Wray Mills]
