@@ -10,11 +10,12 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [Building Communities: Breaking Down Barriers by Providing Free Education](Talks/Building-Communities_Breaking-Down-Barriers-by-Providing-Free-Education_Kevin-Mack-Sean-Doran.pdf) - [Kevin Mack and Sean Doran]
 - [Building Concurrent Systems with Akka.NET](Talks/JoeWirtley-BuildingConcurrentSystemsWithAkka.NET.md) - [Joe Wirtley]
 - [Care and Feeding of your New Junior Dev](Talks/MikeHand-CareAndFeedingOfYourNewJuniorDev.pdf) - [Mike Hand]
-- [Essential JWT](Talks/ToddNussbaum-EssentialJWT.md) - [Todd Nussbaum](https://github.com/tnussbaum)
 - [Containers for Windows Developers](Talks/MichaelCollier-ContainersForWindowsDevelopers.md) - [Michael Collier](https://github.com/mcollier)
+- [Essential JWT](Talks/ToddNussbaum-EssentialJWT.md) - [Todd Nussbaum](https://github.com/tnussbaum)
 - [Event-Driven UX in the Real World](Talks/MichaelMeadows-EventDrivenUXInTheRealWorld.pdf) - [Michael Meadows]
 - [Explosive Growth without Killing the Culture](Talks/VickiMuscarellaNateLusher-SavingTheCulture.pdf) - [Vicki Muscarella] [Nate Lusher]
 - [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing.md) - [Craig Stuntz]
+- [Kroger.com: Herding 100 Cats at Mach 1](Talks/SteveShary-Herding-Cats-At-Mach-1.pdf) - [Stephen Shary](https://www.linkedin.com/in/stephenshary/)
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
 - [Purpose Beyond Programming](Talks/MarkKovacevich-PurposeBeyondProgramming.pptx) - Mark Kovacevich
