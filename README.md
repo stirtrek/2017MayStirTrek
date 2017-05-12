@@ -17,6 +17,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [High Speed Bug Discovery with Fuzzing](Talks/CraigStuntz-HighSpeedBugDiscoveryWithFuzzing.md) - [Craig Stuntz]
 - [Kroger.com: Herding 100 Cats at Mach 1](Talks/SteveShary-Herding-Cats-At-Mach-1.pdf) - [Stephen Shary](https://www.linkedin.com/in/stephenshary/)
 - [Learning to Learn from Disagreement](Talks/TommyGraves-LearningToLearnFromDisagreement.md) - [Tommy Graves]
+- [Make Your Team More Effective From Within](Talks/JasonBlackhurst-MakingTeamsEffective.pdf) - [Jason Slim Blackhurst](https://twitter.com/alsoKnownAsSlim)
 - [More Better Quality Coverage](Talks/JimHolmes-MoreBetterQualityCoverage.md) - [Jim Holmes]
 - [Purpose Beyond Programming](Talks/MarkKovacevich-PurposeBeyondProgramming.pptx) - Mark Kovacevich
 - [Securing Data on the High Seas](Talks/BrettWhittington-SecuringDataOnTheHighSeas.pptx) - [Brett Whittington]
