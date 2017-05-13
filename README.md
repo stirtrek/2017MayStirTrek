@@ -25,6 +25,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [Use Alexa to Learn Cloud Serverless Skills](Talks/WrayMills-UseAlexaToLearnCloudServerlessSkills.md) - [Wray Mills]
 - [Why Your Agile Isn't](Talks/TravisAlexander-WhyYourAgileIsnt.pdf) - [Travis Alexander]
 - [Zero to DevOps in Under an Hour with Kubernetes](Talks/DaleAlleshouse-ZeroToDevOpsInUnderAnHourWithKubernetes.md) - [Dale Alleshouse]
+- [#NoEstimates or Lean Estimates? That is the Question.](https://theupsyde.net/presentations/LeanEstimates/#1) - [Chris McClellan]
 
 ## Sketch Notes
 
