@@ -22,7 +22,7 @@ Slides and materials from the 2017 Guardians of the Galaxy Vol 2 Stir Trek Confe
 - [Purpose Beyond Programming](Talks/MarkKovacevich-PurposeBeyondProgramming.pptx) - Mark Kovacevich
 -  [The Saboteur in Your Retrospectives - How Your Brain Works Against You](Talks/ArtDoler-TheSaboteurInYourRetrospectives.zip) - [Art Doler](https://twitter.com/arthurdoler)
 - [Securing Data on the High Seas](Talks/BrettWhittington-SecuringDataOnTheHighSeas.pptx) - [Brett Whittington]
-- [SQL Server Execution Plans](Talks/DrewFurgiuele-SQLServerExecutionPlans) - [Drew Furgiuele](http://www.port1433.com)
+- [SQL Server Execution Plans](Talks/DrewFurgiuele-SQLServerExecutionPlans.zip) - [Drew Furgiuele](http://www.port1433.com)
 - [Use Alexa to Learn Cloud Serverless Skills](Talks/WrayMills-UseAlexaToLearnCloudServerlessSkills.md) - [Wray Mills]
 - [Zero to DevOps in Under an Hour with Kubernetes](Talks/DaleAlleshouse-ZeroToDevOpsInUnderAnHourWithKubernetes.md) - [Dale Alleshouse]
 - [#NoEstimates or Lean Estimates? That is the Question.](https://theupsyde.net/presentations/LeanEstimates/#1) - [Chris McClellan]
